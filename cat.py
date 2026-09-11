@@ -2,6 +2,4 @@
 2
 
 third day of learning commit
-.
-.
-.
+
