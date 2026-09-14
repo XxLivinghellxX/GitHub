@@ -1,7 +1,8 @@
-1
-2
-
-third day of learning commit
 
 
-fouth day study again
+third day of learning commit - hard reset 
+
+
+fouth day study again  - soft reset 
+
+
