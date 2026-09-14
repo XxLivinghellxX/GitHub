@@ -1,8 +1,14 @@
 
 
-third day of learning commit - hard reset 
+hard reset done 
+- auto update 
+- use reflog to see all commited file 
 
 
-fouth day study again  - soft reset 
+soft reset 
+- review the file 
+- dont tick if want to keep the changes
+- stash
+- done 
 
 
