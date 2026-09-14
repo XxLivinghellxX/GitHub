@@ -7,8 +7,7 @@ hard reset done
 
 soft reset 
 - review the file 
-- dont tick if want to keep the changes
 - stash
 - done 
-
+- use git pop if u want it back
 
