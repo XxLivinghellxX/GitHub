@@ -14,5 +14,4 @@ soft reset
 git stash and pop 
 i am poping this sentence in from shark (stash+ stash pop)
 ...
-place holder text asdf
 stash this and move to frog 
