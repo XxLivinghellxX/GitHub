@@ -11,6 +11,7 @@ soft reset
 - use git pop if u want it back
 
 
-next lesson
 git stash and pop 
-when work on wrong branch
+i am poping this sentence in from shark (stash+ stash pop)
+
+
