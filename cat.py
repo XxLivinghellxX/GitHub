@@ -1,8 +1,4 @@
 
-
-from turtle import back
-
-
 hard reset done 
 - auto update 
 - use reflog to see all commited file 
