@@ -1,5 +1,4 @@
 
-<<<<<<< Updated upstream
 hard reset done 
 - auto update 
 - use reflog to see all commited file 
@@ -16,8 +15,6 @@ git stash and pop
 i am poping this sentence in from shark (stash+ stash pop)
 ...
 stash this and move to frog 
-=======
 
 stash and pop this. only one line shuould be popped 
 
->>>>>>> Stashed changes
