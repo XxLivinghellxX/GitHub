@@ -21,3 +21,6 @@ git stash and pop
 - commit 
 - stash clear
 
+
+to do:
+- try have multiple stash, do not clearn
