@@ -27,3 +27,4 @@ git stash and pop
 to do:
 - try have multiple stash, do not clean
 
+stash this line 
