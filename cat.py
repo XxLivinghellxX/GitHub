@@ -1,5 +1,6 @@
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 from turtle import clear
 
 
@@ -26,10 +27,3 @@ git stash and pop
 to do:
 - try have multiple stash, do not clean
 
-now copy this 2 line 
-using stash 
-
-asdasd asdasdsads
-=======
-what can we do with this 
->>>>>>> Stashed changes
