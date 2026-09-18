@@ -1,4 +1,5 @@
 
+<<<<<<< Updated upstream
 from turtle import clear
 
 
@@ -29,3 +30,6 @@ now copy this 2 line
 using stash 
 
 asdasd asdasdsads
+=======
+what can we do with this 
+>>>>>>> Stashed changes
