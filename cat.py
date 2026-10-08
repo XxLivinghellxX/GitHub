@@ -74,18 +74,19 @@ need to review whats changed
 move to previous commit file 
 
 
-
 ------------------------------------------------------------
 hard reset 
-- auto update 
+- reset directly 
+- no need to commit 
 - use reflog to see all commited file 
 
 
 soft reset 
 - review the file 
-- stash
-- done 
-- use git pop if u want it back
+- click on the add -> keep the current one (green)
+- click on the revert -> revert to the soft commit (red)
+- do nothing -> resolve in the window
+- stash -> revert to the soft commit (red) --> pop to pop back the red part 
 
 
 git stash and pop 
@@ -96,4 +97,5 @@ git stash and pop
 - stash clear
 
 ------------------------------------------------------------
+
 
