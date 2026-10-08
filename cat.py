@@ -15,8 +15,6 @@ check what branch you are in
 swtch to stage/ branch
 
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --------------------git branch--------------------
 to see what branch u r at
 
